@@ -1,23 +1,24 @@
 # Bùi Văn Trí 👋
-Hi — I'm Trí, a software developer focused on building practical, well-tested web and cloud applications. I enjoy turning ideas into user-friendly products and learning new technologies along the way.
+Hi — I'm Trí, a Sys / Cloud / DevOps / SRE / Platform and AI engineer focused on building practical, well-tested cloud-native systems and developer platforms. I enjoy turning infrastructure and tooling into reliable products and learning new technologies along the way.
 
 ---
 
 ## 🔭 What I build
-- Web applications and APIs with a focus on readability, testability, and performance.
-- Small, production-ready projects that solve real problems and can be extended.
-- Tools and automations for developer productivity.
+- Cloud-native platforms, CI/CD pipelines, and developer tooling that improve reliability and velocity.
+- Scalable infrastructure (Kubernetes, serverless) and observability for distributed systems.
+- Automation and AI-assisted tools to streamline operations and developer experience.
 
 ## 🌱 Currently learning
-- Advanced TypeScript patterns and functional techniques
-- Cloud-native architectures (Kubernetes, serverless)
-- Observability: tracing, metrics, and distributed debugging
+- Advanced platform engineering patterns and SRE practices
+- AI/ML tooling for developer productivity and ops automation
+- Policy-as-code and secure supply chain practices
 
 ## ⚡ Highlights
+- Role: Sys · Cloud · DevOps · SRE · Platform · AI
 - Languages: JavaScript / TypeScript, Python
-- Frameworks & Tools: React, Node.js, Express, Next.js, Docker
+- Frameworks & Tools: Kubernetes, Terraform, Helm, Docker, Prometheus, Grafana
 - Cloud & DevOps: AWS, GitHub Actions, CI/CD pipelines
-- Testing: Jest, testing-library, end-to-end tests
+- Testing & Reliability: Chaos engineering, observability, SLOs/SLIs
 
 ## 🚀 Featured projects
 - Project Name — Short 1‑line description. [Repo](https://github.com/buivantri09/your-repo) • Live: https://example.com
@@ -26,6 +27,7 @@ Hi — I'm Trí, a software developer focused on building practical, well-tested
 (Replace the placeholders above with the projects you want to showcase.)
 
 ## 📫 Get in touch
+- Website: https://buivantri09.com
 - Email: hi@yourdomain.com
 - Twitter / X: @yourhandle
 - LinkedIn: /in/yourprofile
