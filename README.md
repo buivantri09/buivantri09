@@ -41,9 +41,16 @@ Hi — I'm Trí, a software developer focused on building practical, well-tested
 
 ## 📈 GitHub stats
 
+<!-- Primary stats (github-readme-stats) -->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=buivantri09&show_icons=true&theme=radical&cache_seconds=86400)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buivantri09&layout=compact&theme=radical&cache_seconds=86400)
+
+<!-- Fallback badges (more robust) -->
+
+[![Followers](https://img.shields.io/github/followers/buivantri09?label=Followers&style=social)](https://github.com/buivantri09)
+[![Profile views](https://komarev.com/ghpvc/?username=buivantri09&color=blue)](https://github.com/buivantri09)
 
 ---
 
