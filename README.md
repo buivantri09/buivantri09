@@ -27,6 +27,7 @@ Hi — I'm Trí, a Sys / Cloud / DevOps / SRE / Platform and AI engineer focused
 (Replace the placeholders above with the projects you want to showcase.)
 
 ## 📫 Get in touch
+- Profile: [@buivantri09](https://github.com/buivantri09)
 - Website: https://buivantri09.com
 - Email: hi@yourdomain.com
 - Twitter / X: @yourhandle
